@@ -1,0 +1,1 @@
+In this code, I worked on a C program that processes DNA reads to analyze genetic information, including identifying bases with the lowest quality scores, finding reads with the smallest average quality, and mapping them to a reference genome, as part of a simplified virus variant tracking process.
